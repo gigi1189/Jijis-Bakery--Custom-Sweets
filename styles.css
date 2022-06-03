@@ -1,0 +1,131 @@
+body {
+    font-family: League Spartan;
+    font-size: 20px;
+    margin: 20px;
+}
+
+
+.navi {
+    float: right;
+    display: flex;
+}
+
+a {
+    color: grey;
+}
+
+.navitxt {
+    padding: 0px 15px 0px 15px;
+}
+
+h1 {
+    font-family: Secular One;
+    font-size: 50px;
+}
+
+.sweetsnflavors {
+    display: flex;
+    border: 3px solid #c9c9c9;
+    border-radius: 10%;
+    background: #e0e0e0;
+    padding: 15px;
+
+}
+
+.titles {
+    color: #F89880;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+
+}
+
+.image {
+    width: 350px;
+    height: 350px;
+    padding: 6px;
+    border: 5px solid #F89880;
+}
+
+.kiwi {
+    width: 400px;
+    height: 300px;
+}
+
+.orderbox {
+    border: 3px solid #c9c9c9;
+    border-radius: 10%;
+    background: #e0e0e0;
+    padding: 10px;
+    margin-top: 10%;
+
+}
+
+.reviews {
+    border: 3px solid #c9c9c9;
+    border-radius: 10%;
+    background: #e0e0e0;
+    padding: 10px;
+    margin-top: 10%;
+}
+
+marquee {
+    height: 200px;
+}
+
+.dates {
+    color: grey;
+    font-size: 15px;
+}
+
+.footer {
+    color: grey;
+    font-size: 15px;
+    margin-top: 20px;
+
+}
+
+.jiji {
+    font-family: Secular One;
+    display: flex;
+    justify-content: center;
+}
+
+.footernavi {
+    display: flex;
+    justify-content: center;
+}
+
+.footernavitxt {
+    padding: 0px 10px 0px 10px;
+display: flex;
+    text-align: center;
+}
+
+input {
+    height: 30px;
+}
+
+ul {
+    color: grey;
+}
+
+.leftpage {
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+.reviewpost {
+    background: #faf0f3;
+    padding: 5px;
+    border-radius: 10%;
+    border: 3px double #F89880;
+    margin: 10px;
+}
+
+.recentorders {font-size: 25px;}
+
+.header {background: #fcc0b1;
+padding: 15px;}
